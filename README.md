@@ -1,3 +1,4 @@
-# hello-world
-just another repository
-I like tacos
+# Davis Mountains Mistletoe
+repository for summer 2016 data
+
+
